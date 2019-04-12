@@ -64,7 +64,7 @@ namespace LabSheet6
 
 }//end of class
 
-    public class ComputerGame : Game
+public class ComputerGame : Game
     {
         public string PEGI_Rating { get; set; }
 
