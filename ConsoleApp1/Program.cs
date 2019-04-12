@@ -18,7 +18,7 @@ namespace ConsoleApp1
 
             string text = "this is a test sentance";
 
-            Console.WriteLine("The number of works in \"{0}\" is {1}", text, text.WordCount());
+            Console.WriteLine("The number of words in \"{0}\" is {1}", text, text.WordCount());
 
             Console.ReadLine();
         }
